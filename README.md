@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-日拱一卒,功不唐捐.
+明月直入，无心可猜。
 
 社交账号：[知乎](https://www.zhihu.com/people/chen-jia-han) / [语雀](https://www.yuque.com/neverland)
 
