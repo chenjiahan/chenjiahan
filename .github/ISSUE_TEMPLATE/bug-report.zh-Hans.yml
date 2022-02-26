@@ -17,6 +17,9 @@ body:
     attributes:
       label: 版本信息
       description: 在命令行执行 `npm ls @modern-js/app-tools` 命令，并将输出内容粘贴到下方区域。
+      placeholder: |
+        middle-platform@0.1.0
+          └── @modern-js/app-tools@1.4.1
       render: sh
     validations:
       required: true
@@ -33,7 +36,8 @@ body:
     id: repro
     attributes:
       label: 问题复现
-      description: "请提供一个精炼的问题复现（去除无关依赖的最小化可运行 demo）。 请在下方贴入在 CodePen 上 demo 的链接（[<kbd>⌘</kbd>+点击这里打开模板](https://codepen.io/Justineo/pen/yLbxxOR)）或者复现项目的 repo 地址："
+      description: "请提供一个精炼的问题复现（去除无关依赖的最小化可运行 demo）。 你可以基于 CodePen 进行创建（[<kbd>⌘</kbd>+点击这里打开模板](https://codepen.io/Justineo/pen/yLbxxOR)），或者提供 GitHub 仓库地址："
+      placeholder: 将对应的链接粘贴到此处。
     validations:
       required: true
 
