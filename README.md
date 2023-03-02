@@ -2,7 +2,7 @@
 
 明月直入，无心可猜。
 
-Working on：[Modern.js](https://github.com/modern-js-dev/modern.js) / [Vant](https://github.com/youzan/vant)
+Working on：[Modern.js](https://github.com/modern-js-dev/modern.js) / [Rspack](https://twitter.com/rspack_dev) / [Vant](https://github.com/youzan/vant)
 
 Follow me：[Twitter](https://twitter.com/Neverland1199) / [知乎](https://www.zhihu.com/people/chen-jia-han) / [语雀](https://www.yuque.com/neverland)
 
